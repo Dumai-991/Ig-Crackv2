@@ -11,6 +11,30 @@
 2. Username + Password
 >
 
+### ★★ Tutorial Install Bahan ★★
+>
+★★Bagi Yang Belum Install
+```
+apt update && apt upgrade
+apt install python
+apt install git
+git clone https://github.com/Dumai-991/Ig-Crackv2
+cd Ig-Crackv2
+git pull
+```
+>
+★★Bagi Yang Sudah Install
+```
+cd Ig-Crackv2
+git pull
+```
+>
+★★Cara Jalankan Script
+```
+cd Ig-Crackv2
+python run.py
+```
+
 
 ### ★★ Kontak/Hp ★★
 [**WhatsApp**](https://wa.me/6283143565470) :white_check_mark:
